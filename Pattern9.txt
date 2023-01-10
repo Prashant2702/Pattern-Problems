@@ -1,0 +1,4 @@
+In this program we have to print  the 1 and 0 in the  traiangular pattern where 1 is print whe n the i+j=0
+and print 0 when i+j is odd.
+Here,we include for loop and the one if-else loop for printing out the pattern.
+ 

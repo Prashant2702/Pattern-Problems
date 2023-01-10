@@ -1,0 +1,3 @@
+In this problem,we are going to print the rectangular star pattern using the two for loops .
+Here,we used for loop in an another for loop for printing out the rectangualar star pattern.
+Here,i is representing the row number and the j is representing the column number.  

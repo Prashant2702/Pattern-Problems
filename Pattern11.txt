@@ -1,0 +1,6 @@
+...Number  Pattern...
+In this program we are going print out the number pattern.we have to do
+Row-1 to n.
+coulmns-spacing-1 to n-Row no.
+number  printing-1 to  row no.
+here we include the for loops for printing out the pattern.

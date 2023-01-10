@@ -1,0 +1,7 @@
+...Inverted Pattern...
+In this program we are going to print the inverted pattern using the for loops.
+Here,we have to do,
+Row-1 to n,
+column-n+1-row no.
+element-coulmn number.
+so we are using the two for loops.

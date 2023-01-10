@@ -1,0 +1,8 @@
+...Butterfly Pattern...
+In this program, we are going to print out the butterfly pattern where row is started from 1 to n.
+star pattern =Row no.
+Space-2*n-2*Row no.
+we done this program with the help of for loops.first for loop is used for the row ,second loop
+is used for the Printing out the spacing in columns and last one is used for star printing.This
+is for the upper pattern for the butterfly problem.we used the same code and only change-
+i=n;i<=1;i--.

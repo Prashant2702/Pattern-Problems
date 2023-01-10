@@ -1,0 +1,4 @@
+...Half Pyramid Using The Numbers...
+In this program we are going to  print out the half  pyramid using the numbers.
+Here,we include two for loops for printing out the pattern,one for the row and 2nd one 
+for the column.

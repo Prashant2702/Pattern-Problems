@@ -1,0 +1,5 @@
+...Rhombus Pattern Problems...
+In this program we are going to print the rhombus pattern problem where we have to do,
+Row-1 to n.
+column-n to row no space.
+Here,we include the for loops, one for the spacing and the 2nd one for the printing of star. 

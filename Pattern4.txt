@@ -1,0 +1,4 @@
+...Half Pyramid after 180 Degree Rotation Problem...
+In this prgram we are going to print out the half pyramid after 180 degree rotation pattern using the 
+two for loops.Here, we also include if else conditions for printing out the star pattern and the 
+spacing in the pattern. 
