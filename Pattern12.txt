@@ -1,0 +1,4 @@
+...Palindromic Pattern using the numbers...
+In these program we are going to print out the palindromic pattern using the numbers.
+Here,we can print these pattern by taking the for loops in which we mainly apply the 
+logic.

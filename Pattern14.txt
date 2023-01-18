@@ -1,0 +1,4 @@
+...Zig-Zag Pattern...
+In these program we are going to print out the zig-zag pattern which is one of the trickest pattern problem
+as these types of questions are mainly asked in oracle,google,Microsoft comapnies.
+we can done this with the help of the for loop where the logic is done. 

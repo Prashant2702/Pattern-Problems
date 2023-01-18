@@ -1,0 +1,3 @@
+...Star Pattern in 90 degree rotation of a rectangle...
+In these program we are going to print out the star pattern in 90 degree rotaion of a rectangle.
+we can done this using the for loops.
